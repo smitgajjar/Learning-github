@@ -1,2 +1,2 @@
-I am Sam and I like ham.
+I am Smit and I like Pauva.
 This is my first commit.
